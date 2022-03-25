@@ -1,0 +1,40 @@
+h1 {
+  color: rgb(20, 27, 25);
+  text-shadow: 13px 13px 18px rgb(10, 37, 36); /*text shadow x y difuminasion color*/
+  text-align: center;
+}
+body {
+  background-color: antiquewhite;
+  margin: 15px 15px;
+}
+p {
+  color: tomato;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-shadow: 3px 3px 8px grey;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  display: ;
+}
+
+li {
+  margin: 5px;
+}
+
+#tarjeta {
+  border: 1px solid black;
+  text-align: center;
+  padding: 2% 10%;
+  background-color: azure;
+  color: black;
+  border-radius: 25%;
+  box-shadow: 3px 3px 15px black;
+  margin-top: 50px;
+}
+
+#tarjeta p {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
